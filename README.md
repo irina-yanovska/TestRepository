@@ -1,7 +1,13 @@
 # TestRepository
 TestRepository description
 
+
 #### some new test added and next two lines removed
+
+### new modifications on main branch
+
+**This readme file** *is a test copy of TestRepository*
+
 
 It's used to:
 1. Learn GitHub;
